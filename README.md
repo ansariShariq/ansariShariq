@@ -10,7 +10,7 @@
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
-    
+<h3 align="left"><a href="https://drive.google.com/file/d/1eMZ35jhcTS0xgRwn0wgpkFEYzHellyML/view?usp=sharing" target="blank">Resume</a></h3>    
 
 
 <h3 align="left">Connect with me:</h3>
